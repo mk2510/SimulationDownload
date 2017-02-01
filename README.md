@@ -32,7 +32,7 @@ ist.
   - Benötigte Compiler/Library:
     - Haskell Compiler
     - gloss Library 
-  - Download des GitHub Projektes der Simulation, welches unter diesem [Link](https://github.com/mk2510/SimulationDownload) zu finden ist
+  - Download der Simulation mit dem **Clone or Download** Button
   - Laden der Funktion `main` des Modules `Main` zum Start der Simulation
   
   
