@@ -19,12 +19,12 @@ ist.
 
 
 1. für Windows
-  - Download des GitHub Projektes der Simulation, welches unter diesem [Link](https://github.com/mk2510/SimulationDownload) zu finden ist
+  - Download der Simulation mit dem **Clone or Download** Button 
   - Öffnen der Datei WinExe im Ordner Executables
   - Start des Programmes in der Komandozeile
   
 2. für Mac
-  - Download des GitHub Projektes der Simulation, welches unter diesem [Link](https://github.com/mk2510/SimulationDownload) zu finden ist
+  - Download der Simulation mit dem **Clone or Download** Button
   - Öffnen der Datei MacExe im Ordner Executables
   - Start des Programmes in einem Terminalfenster
   
