@@ -17,18 +17,13 @@ ist.
 
 ### Anleitung
 
-
-1. für Windows
-  - Download der Simulation mit dem **Clone or Download** Button 
-  - Öffnen der Datei WinExe im Ordner Executables
-  - Start des Programmes in der Komandozeile
   
-2. für Mac
+1. für Mac
   - Download der Simulation mit dem **Clone or Download** Button
   - Öffnen der Datei MacExe im Ordner Executables
   - Start des Programmes in einem Terminalfenster
   
-3. für Linux / zum selberkompilen
+2. für Linux / zum selberkompilen
   - Benötigte Compiler/Library:
     - Haskell Compiler
     - gloss Library 
